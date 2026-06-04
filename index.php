@@ -331,7 +331,7 @@ $schema = [
     <meta property="og:url" content="<?= h($canonical) ?>">
     <meta name="theme-color" content="#11161c">
     <link rel="preload" as="image" href="assets/images/kashirka-hero-industrial.jpg">
-    <link rel="stylesheet" href="assets/styles.css">
+    <link rel="stylesheet" href="assets/styles.css?v=20260604-hero-compact">
     <script type="application/ld+json"><?= json_encode($schema, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT) ?></script>
 </head>
 <body>

@@ -349,9 +349,9 @@ h3 {
 }
 
 h1 {
-    max-width: 680px;
-    font-size: clamp(30px, 3.8vw, 52px);
-    line-height: 1.08;
+    max-width: 720px;
+    font-size: clamp(26px, 2.6vw, 40px);
+    line-height: 1.12;
     text-transform: uppercase;
 }
 
@@ -1404,7 +1404,7 @@ select option {
     }
 
     h1 {
-        font-size: 30px;
+        font-size: 26px;
     }
 
     h2 {
@@ -1471,7 +1471,7 @@ select option {
     }
 
     h1 {
-        font-size: 27px;
+        font-size: 24px;
     }
 
     .hero-facts,
